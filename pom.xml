@@ -279,5 +279,6 @@
   <modules>
     <module>bundle</module>
     <module>content</module>
+	<module>ui-design</module>
   </modules>
 </project>
