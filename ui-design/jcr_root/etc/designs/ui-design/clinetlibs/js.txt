@@ -1,3 +1,4 @@
 #base=js
 jquery-1.7.2.min.js
-tools.js
+jquery.validator.min.js
+registration.js

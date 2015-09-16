@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Linbao AEM Project
 ========
 
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# aem-linbao
+The AEM project for Linbao
+>>>>>>> 9c9903e2ede3ec0fee32b5b797bb1a4a87aff829
